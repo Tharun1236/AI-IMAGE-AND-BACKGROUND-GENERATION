@@ -1,4 +1,4 @@
-# AI_NANOPIX
+# AI_IMAGE_AND_BACKGROUND_GENERATION
 
 **# Purpose:**
 The purpose of this script is to process an Excel file containing machine details and prompts, generate background images using Stable Diffusion based on the provided prompts, overlay the text on pre-defined GIFs corresponding to machine numbers, and produce output videos with specific text effects.
